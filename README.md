@@ -1,6 +1,6 @@
 # School Gun Detection
 
-Every 72 hours, there are approximately 200 shootings in the US. That's absurd and needs to stop. 
+Every 72 hours, there are approximately 200 shootings in the US. That's absurd and needs to stop. https://www.gunviolencearchive.org/last-72-hours
 
 For royal bay hacks, I wanted to create a solution for school shootings to help save young lives!
 
