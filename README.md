@@ -22,7 +22,7 @@ This is the second line of defense.
 
 ### Dashboard
 
-I've also created a dashboard where all the calls to 911 and why will show up to, this can help with rare false-calls and governement use purposes.
+I've also created a dashboard where all the calls to 911 and why will show up to, this can help with rare false-calls and government use purposes.
 
 ## Features I would love to add
 
