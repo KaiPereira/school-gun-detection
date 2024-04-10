@@ -11,7 +11,7 @@ The system uses 3 different detection methods and a dashboard for government pur
 ### Cameras
 
 Cameras would be placed inside of schools to detect gun being brought in and call 911. 
-This would be the first mesure of defense.
+This would be the first line of defense.
 
 ![image](https://github.com/KaiPereira/school-gun-detection/assets/88850028/74cd3c20-5a54-4374-a6a2-744d75790dd0)
 
@@ -26,7 +26,7 @@ I've also created a dashboard where all the calls to 911 and why will show up to
 
 ## Features I would love to add
 
-No everything I said here was implemented in the 10 hours given, some things I'd like to implement are:
+Not everything I said here was implemented in the 10 hours given, some things I'd like to implement are:
 
 - Gunshot audio ml detection
 - Better dashboard
